@@ -1,0 +1,16 @@
+DROP TABLE Company
+DROP TABLE Customer
+DROP TABLE CustomerDownload
+DROP TABLE CustomerRelease
+DROP TABLE DevRelease
+DROP TABLE Email
+DROP TABLE Feature
+DROP TABLE FileDownload
+DROP TABLE Phone
+DROP TABLE Platform
+DROP TABLE Product
+DROP TABLE ProductVersion
+DROP TABLE Release
+DROP TABLE ReleaseVersion
+DROP TABLE Subscription
+DROP TABLE VersionFeature
