@@ -1,0 +1,16 @@
+DELETE FROM Feature;
+DELETE FROM ProductVersion;
+DELETE FROM VersionFeature;
+DELETE FROM CustomerRelease;
+DELETE FROM ReleaseVersion;
+DELETE FROM DevRelease;
+DELETE FROM Release;
+DELETE FROM Product;
+DELETE FROM Platform;
+DELETE FROM CustomerDownload;
+DELETE FROM FileDownload;
+DELETE FROM Subscription;
+DELETE FROM Customer;
+DELETE FROM Email;
+DELETE FROM Company;
+DELETE FROM Phone;
